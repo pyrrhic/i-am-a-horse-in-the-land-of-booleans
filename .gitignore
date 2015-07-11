@@ -8,3 +8,7 @@ pom.xml
 .lein-deps-sum
 .lein-failures
 .lein-plugins
+<<<<<<< HEAD
+/bin/
+=======
+>>>>>>> branch 'master' of https://github.com/pyrrhic/i-am-a-horse-in-the-land-of-booleans.git
